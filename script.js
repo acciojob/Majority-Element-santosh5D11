@@ -4,7 +4,7 @@ function majorityElement(n) {
     let candidate = null;
     let count = 0;
 
-    for (let num of A) {
+    for (let num of n) {
         if (count === 0) {
             candidate = num;
         }
