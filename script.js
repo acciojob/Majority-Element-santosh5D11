@@ -1,4 +1,4 @@
-//your code here
+//By using Boyer–Moore Voting Algorithm
 
 function majorityElement(n) {
     let candidate = null;
